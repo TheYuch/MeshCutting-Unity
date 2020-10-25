@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{19076AD6-246E-B147-7BA1-81F5E088CF70}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MeshGenerator.cs">
+    <Files>
+      <File FileName="Assets/MeshGenerator.cs" Line="25" Column="56" />
+      <File FileName="Assets/MeshCutter.cs" Line="19" Column="10" />
+      <File FileName="Assets/GameCutter.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MeshTest" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="MeshGenerator.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="cd6e86f1-1b12-4bb0-a8fc-8ef242007b5c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
